@@ -1,6 +1,6 @@
 <script>
         // Converting temprature in Fahrenheit
-        /*var C=prompt("Enter Your temprature in Celsius:");// temprature in celsius
+        var C=prompt("Enter Your temprature in Celsius:");// temprature in celsius
         var F=((C * 9/5)+32);
         document.write("Temprature in Fahrenheit:"+F+" "+"C");
         document.write('<br>');
@@ -9,10 +9,10 @@
         var FH=prompt("Enter your temprature in Fahrenheit");
         var CS=((FH-32)*5/9);
         document.write("Temprature in Celsius:"+CS+" "+"C");
-        document.write('<br>');*/
+        document.write('<br>');
 
         //squaring the number
-        /*var num=prompt("Enter Number:");
+        var num=prompt("Enter Number:");
         var num = Math.pow(num, 2);
         document.write("The square of the num is:"+num);
         document.write('<br>');
@@ -20,13 +20,13 @@
         //cubing the number
         var cube=prompt("Enter num:");
         var cube=Math.pow(cube,3);
-        document.write("The cube of the num is:"+cube);*/
+        document.write("The cube of the num is:"+cube);
         document.write('<br>');
 
         //converting degree into radian
-       /*var num=prompt("Enter angle in degree:");
+       var num=prompt("Enter angle in degree:");
        var deg=(num*Math.Pi)/180;
-       document.write(deg);*/
+       document.write(deg);
        document.write('<br>');
     
 
